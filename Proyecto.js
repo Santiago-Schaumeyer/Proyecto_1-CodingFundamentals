@@ -1,11 +1,11 @@
 //100 de vida y hacen 20 de daño sin arma
 let vida = 300
-let damage = 20 //Puñetazo
+let damage = 20 
 
 //Armas
 let espada = 20 
-let martillo = 35  //Te hace mas lento
-let lanza = 30  //Solo sirve una vez
+let martillo = 35  
+let lanza = 30  
 
 //Escudo
 let escudoLigero = 20
